@@ -58,7 +58,7 @@ table {width: 60%;
 td, th{padding: 5px;
 	border: 1px #3F2860;}
 
-:nth-child(even){background-color: #9bc1c2;}
+:nth-tr(even){background-color: #9bc1c2;}
 
 .floatleft { float: left;
              margin-right: 4em; }
